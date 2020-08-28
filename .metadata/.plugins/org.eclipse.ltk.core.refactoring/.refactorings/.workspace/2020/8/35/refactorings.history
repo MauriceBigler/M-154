@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;mvn-m154-crm&apos; to &apos;mvn-m154-crm-business&apos;&#x0D;&#x0A;- Original element: &apos;mvn-m154-crm&apos;&#x0D;&#x0A;- Renamed element: &apos;mvn-m154-crm&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;mvn-m154-crm&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=mvn-m154-crm" name="mvn-m154-crm-business" references="true" stamp="1598606514965" version="1.0"/>
+</session>
